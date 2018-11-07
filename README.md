@@ -6,5 +6,5 @@
 * Place an order if desired quantity is avaliable
 
 
-<img src="./2018-11-07_00-22-26.gif" height="200%" width="200%"/>
+<img src="./2018-11-07_00-22-26.gif" height="150%" width="150%"/>
       
